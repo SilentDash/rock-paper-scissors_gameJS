@@ -91,6 +91,6 @@ class Game {
 let verification = getuserChoice("  scissors ", "Rock", "Rock");
 let startGame = new Game(verification);
 startGame.gameActivate(3);
-```
+//```
 
 //These changes improve readability, efficiency, and maintainability.
