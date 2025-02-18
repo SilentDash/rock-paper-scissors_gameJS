@@ -1,6 +1,6 @@
 # rock-paper-scissors_gameJS
 
-# Works using existing 'Rock' 'Paper' or 'Scissors'
+# Rock Paper Scissors Game JS
 can be configured to be run through just numbers 
 
 #3 Main Functionality: 
