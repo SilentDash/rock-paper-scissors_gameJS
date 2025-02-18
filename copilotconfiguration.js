@@ -15,7 +15,7 @@ Here are some optimizations that can be made to the existing code:
 
 ### Optimized Code
    */
-```javascript
+// ```javascript
 let gameEnded = false;
 let roundFinished = 0;
 
