@@ -1,4 +1,4 @@
-/* Optimized by CO-PILOT */
+/* Optimized by CO-PILOT 
 Here are some optimizations that can be made to the existing code:
 
 1. **Simplify `getuserChoice` Function**:
@@ -14,6 +14,7 @@ Here are some optimizations that can be made to the existing code:
    - Add proper error handling to avoid `throw new error`.
 
 ### Optimized Code
+   */
 ```javascript
 let gameEnded = false;
 let roundFinished = 0;
@@ -92,4 +93,4 @@ let startGame = new Game(verification);
 startGame.gameActivate(3);
 ```
 
-These changes improve readability, efficiency, and maintainability.
+//These changes improve readability, efficiency, and maintainability.
